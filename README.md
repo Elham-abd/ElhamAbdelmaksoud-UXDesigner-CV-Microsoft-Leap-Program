@@ -45,6 +45,8 @@ College of Computing and Information Technology. Arab Academy for Science and Te
 
 <br/>
 
+
+
 # PROFESSIONAL CERTIFICATE
 **Google UX Design Professional Certificate, 2022**
 - Foundations of User Experience (UX) Design 
