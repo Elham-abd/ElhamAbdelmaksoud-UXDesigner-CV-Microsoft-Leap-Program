@@ -8,6 +8,8 @@ www.linkedin.com/in/elham-abdelmaksoud
 # SUMMARY
 I'm a self-taught UX designer. I found my passion to the user centered design field during the past few years. While I'm a stay at home mom. I completed the Google UX Design Certificate. A rigorous, hands-on program that covers the design process from end-to-end. I applied the UX design skills I gained through out the course to the three projects I worked on during the certificate. As, user-centered design, accessibility, and equity-focused design. 
 
+<br/>
+
 
 # SKILLS
 - User Research
@@ -31,7 +33,7 @@ I'm a self-taught UX designer. I found my passion to the user centered design fi
 - Miro
 - Jamboard
  
- 
+
 # EDUCATION
 **BSc,Information Systems.**
 College of Computing and Information Technology. Arab Academy for Science and Technology, Alexandria, Egypt.(2009-2013)
@@ -45,6 +47,8 @@ College of Computing and Information Technology. Arab Academy for Science and Te
 
 <br/>
 
+
+<br/>
 
 
 # PROFESSIONAL CERTIFICATE
